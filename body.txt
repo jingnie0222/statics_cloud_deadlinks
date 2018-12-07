@@ -1,0 +1,8 @@
+static_by_hour.csv  按照appid、小时级统计死链信息
+
+static_by_day.csv   按照appid、天级统计死链信息
+
+static_domain_by_hour.csv  按照域名、小时级统计死链信息
+
+static_domain_by_day.csv   按照域名、天级统计死链信息
+
